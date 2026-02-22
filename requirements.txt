@@ -1,7 +1,10 @@
-gradio 
-pandas 
-langchain 
-langchain-community
-faiss-cpu 
-sentence-transformers 
-groq
+gradio
+pandas
+faiss-cpu
+sentence-transformers
+langchain==0.2.16
+langchain-core==0.2.41
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+langchain-groq
+python-dotenv
